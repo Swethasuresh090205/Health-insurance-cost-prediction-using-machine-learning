@@ -1,4 +1,4 @@
-# data-Science
+# HEALTH INSURANCE COST PREDICTION USING MACHINE LEARNING
 __Description :__
 The dataset contains details of individuals insured with a Healthcare Organization and how much they incur insurance premium expenses.Health insurance cost prediction involves estimating the cost of health insurance premiums or claims based on factors like age, gender, Bmi, childern, smoker, and other relevant data. This is typically done using data analysis and machine learning techniques.
 # _Attribute Information:_
